@@ -1,1 +1,18 @@
+! Title: Fynk's mobile adblocklist
+! Homepage: https://github.com/fynks/block-lists
+! License: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
+! Expires: 30 days
+! Version: 1
+!
+! Hand picked
+
+!-------------------------------------------------------
+!--- New Layout ----------------------------------------
+!-------------------------------------------------------
+
+! Apkmirror annoying subscription slider
 www.apkmirror.com##.show.set-max-width.container-fluid.apkm-timed-slider
+
+!-------------------------------------------------------
+!--- End -----------------------------------------------
+!-------------------------------------------------------
